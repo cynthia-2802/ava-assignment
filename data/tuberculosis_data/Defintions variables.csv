@@ -1,0 +1,9 @@
+﻿variable_name,definition
+country,Country or territory name
+iso2,ISO 2-character country/territory code
+iso3,ISO 3-character country/territory code
+new_sp_m014,New pulmonary smear positive cases: males aged 0-14 years (not used after 2012)
+new_sp_m1524,New pulmonary smear positive cases: males aged 15-24 years (not used after 2012)
+new_sn_m014,New pulmonary smear negative/smear unknown/smear not done cases: males aged 0-14 years (not used after 2012)
+newrel_f014,New and relapse cases (but only new cases if rel_in_agesex_flg = 0): females aged 0-14 years
+new_ep_f014,New extrapulmonary cases: females aged 0-14 years (not used after 2012)
